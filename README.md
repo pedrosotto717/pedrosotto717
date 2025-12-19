@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- ========================= -->
+<!-- 1) BANNER (CHOOSE ONE)    -->
+<!-- ========================= -->
 
+<!-- (A) Capsule Banner (quick) -->
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:e9ecff&height=240&section=header&text=Pedro%20Soto&fontSize=64&fontColor=111827&desc=Software%20Engineer%20%7C%20Full-Stack%20(Laravel%20%2B%20Vue%2FReact)&descSize=18&descAlignY=68" />
+</p>
+
+
+<!-- (B) Custom Banner (recommended) -->
 <!--
-**pedrosotto717/pedrosotto717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img width="100%" src="./assets/banner.png" alt="Pedro Soto - Banner" />
+</p>
 -->
+
+<!-- ========================= -->
+<!-- 2) CTA BUTTONS            -->
+<!-- ========================= -->
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](<YOUR_LINKEDIN_URL>)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<YOUR_EMAIL>)
+[![Company](https://img.shields.io/badge/Company-Little%20Taller-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white)](https://littletaller.com)
+
+</div>
+
+<!-- ========================= -->
+<!-- 3) ABOUT                  -->
+<!-- ========================= -->
+
+## About
+
+- Software Engineer (Full-Stack)
+- Building UIs with **Vue (2/3)** and **React**, and APIs with **Laravel / PHP**
+- Experience with **React Native** (mobile)
+- Working remotely with a team based in **Phoenix, AZ**
+
+<!-- ========================= -->
+<!-- 4) LANGUAGES & TOOLS      -->
+<!-- ========================= -->
+
+## Languages & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,bootstrap,react,vue,php,laravel,mongodb,mysql,git,postman&perline=8" />
+  </a>
+</div>
+
+<!-- ========================= -->
+<!-- 5) PROJECTS               -->
+<!-- ========================= -->
+
+## Projects
+
+- **prottoDom** — A micro frontend library inspired by ideas from **Vue** and early **React** patterns. Used as the UI foundation for **Fiction**.
+- **Fiction** — Movie web SPA built with **Vanilla JavaScript + prottoDom**.
+- **pictunex_api** — Image service API built with **Vanilla PHP** + backoffice dashboard (upload/manage/share images).
+- **pictunex_web** — A **Pexels-like** web client built with **Vanilla JavaScript** consuming `pictunex_api`.
+
+<!-- ========================= -->
+<!-- 6) (OPTIONAL) STATS       -->
+<!-- ========================= -->
+<!-- If you want, we can add stats later. -->

@@ -31,8 +31,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-soto-623971162/)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrosotto717@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-soto-623971162/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact%20me-475569?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrosotto717@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Company](https://img.shields.io/badge/Company-Little%20Taller-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.littletaller.com)
 
 </div>
@@ -72,6 +72,9 @@
 - **Fiction** — Movie web SPA built with **Vanilla JavaScript + prottoDom**.  
   Live demo: https://pedrosotto717.github.io/fiction/dist/
 - **pictunex_api** — Image service API built with **Vanilla PHP** + backoffice dashboard (upload/manage/share images).
-- **pictunex_web** — A **Pexels-like** web client built with **Vanilla JavaScript**, consuming `pictunex_api`.
+- **pictunex_web** — A **Pexels-like** web client built with **Vanilla JavaScript**, consuming `pictunex_api`. 
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosotto717&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
